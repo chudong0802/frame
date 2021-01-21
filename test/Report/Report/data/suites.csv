@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","0","TestCase","test_mia","TestAllure","","","这是用例名称1",""
+"failed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","0","TestCase","test_mia","TestAllure","","","这是用例名称3",""
+"passed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","1","TestCase","test_mia","TestAllure","","","这是用例名称，代替用例的函数名","这是用例描述"
+"passed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","0","TestCase","test_mia","TestAllure","","","这是用例名称",""
+"failed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","1","TestCase","test_mia","TestAllure","","","这是用例名称4",""
+"passed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","0","TestCase","test_mia","TestAllure","","","代替用例的函数名",""
+"failed","Wed Jul 22 10:49:07 CST 2020","Wed Jul 22 10:49:07 CST 2020","1","TestCase","test_mia","TestAllure","","","这是用例名称2",""

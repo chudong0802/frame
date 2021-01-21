@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","中文录入，测试allure使用-feature","story1","0","0","1","0","0"
+"","feature1","story1","0","0","1","0","0"
+"","中文录入，测试allure使用-feature","story2","3","0","0","0","0"
+"","feature2","story2","3","0","0","0","0"
+"","中文录入，测试allure使用-feature","--测试stroy","0","0","3","0","0"

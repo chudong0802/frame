@@ -1,0 +1,7 @@
+2020-07-27 18:12:39,402 base_page.py find_element [line:30] INFO: 开始定位元素：xpath：/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout[3] 
+2020-07-27 18:12:47,812 base_page.py find_element [line:30] INFO: 开始定位元素：id：switch_button
+2020-07-27 18:12:47,812 base_page.py find_element [line:30] INFO: 开始定位元素：id：switch_button
+2020-07-27 18:12:48,079 base_page.py find_element_and_click [line:42] INFO: 元素点击成功：id：switch_button
+2020-07-27 18:12:48,079 base_page.py find_element_and_click [line:42] INFO: 元素点击成功：id：switch_button
+2020-07-27 18:12:48,080 base_page.py find_element [line:30] INFO: 开始定位元素：id：switch_button
+2020-07-27 18:12:48,080 base_page.py find_element [line:30] INFO: 开始定位元素：id：switch_button

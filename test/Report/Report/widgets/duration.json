@@ -1,0 +1,71 @@
+[ {
+  "uid" : "b508e91096fa8499",
+  "name" : "这是用例名称1",
+  "time" : {
+    "start" : 1595386147794,
+    "stop" : 1595386147794,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de4b0ad5dc8c985",
+  "name" : "这是用例名称3",
+  "time" : {
+    "start" : 1595386147808,
+    "stop" : 1595386147808,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1205310473735c0",
+  "name" : "这是用例名称，代替用例的函数名",
+  "time" : {
+    "start" : 1595386147790,
+    "stop" : 1595386147791,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c99cca23495b7ed",
+  "name" : "这是用例名称",
+  "time" : {
+    "start" : 1595386147792,
+    "stop" : 1595386147792,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb1134546d716bae",
+  "name" : "这是用例名称4",
+  "time" : {
+    "start" : 1595386147810,
+    "stop" : 1595386147811,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b08f1c1a213850a4",
+  "name" : "代替用例的函数名",
+  "time" : {
+    "start" : 1595386147793,
+    "stop" : 1595386147793,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "18d0500f76a15732",
+  "name" : "这是用例名称2",
+  "time" : {
+    "start" : 1595386147795,
+    "stop" : 1595386147796,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

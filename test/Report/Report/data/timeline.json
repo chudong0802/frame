@@ -1,0 +1,104 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "shileiwu-HP-ProDesk-480-G6-MT",
+    "children" : [ {
+      "name" : "4789-MainThread",
+      "children" : [ {
+        "name" : "这是用例名称4",
+        "uid" : "eb1134546d716bae",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "failed",
+        "time" : {
+          "start" : 1595386147810,
+          "stop" : 1595386147811,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "这是用例名称2",
+        "uid" : "18d0500f76a15732",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "failed",
+        "time" : {
+          "start" : 1595386147795,
+          "stop" : 1595386147796,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "代替用例的函数名",
+        "uid" : "b08f1c1a213850a4",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595386147793,
+          "stop" : 1595386147793,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "这是用例名称",
+        "uid" : "6c99cca23495b7ed",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595386147792,
+          "stop" : 1595386147792,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "这是用例名称3",
+        "uid" : "9de4b0ad5dc8c985",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "failed",
+        "time" : {
+          "start" : 1595386147808,
+          "stop" : 1595386147808,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "这是用例名称，代替用例的函数名",
+        "uid" : "1205310473735c0",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595386147790,
+          "stop" : 1595386147791,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "这是用例名称1",
+        "uid" : "b508e91096fa8499",
+        "parentUid" : "bc71a4180bd8144f159238d44b822150",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595386147794,
+          "stop" : 1595386147794,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bc71a4180bd8144f159238d44b822150"
+    } ],
+    "uid" : "9601dda19c7a027b9cf73a8a7ea1a071"
+  } ]
+}

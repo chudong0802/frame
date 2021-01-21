@@ -1,0 +1,62 @@
+{
+  "uid" : "6c99cca23495b7ed",
+  "name" : "这是用例名称",
+  "fullName" : "TestCase.test_mia.TestAllure#test_02",
+  "historyId" : "20ba3b48488b9c27bf019839b86f2215",
+  "time" : {
+    "start" : 1595386147792,
+    "stop" : 1595386147792,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "--测试stroy"
+  }, {
+    "name" : "feature",
+    "value" : "中文录入，测试allure使用-feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mia"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "shileiwu-HP-ProDesk-480-G6-MT"
+  }, {
+    "name" : "thread",
+    "value" : "4789-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_mia"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c99cca23495b7ed.json",
+  "parameterValues" : [ ]
+}

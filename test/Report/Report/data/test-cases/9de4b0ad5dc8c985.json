@@ -1,0 +1,71 @@
+{
+  "uid" : "9de4b0ad5dc8c985",
+  "name" : "这是用例名称3",
+  "fullName" : "TestCase.test_mia.TestAllure#test_sum_03",
+  "historyId" : "dfc61c14210ee382bcf6fdd4997e8e92",
+  "time" : {
+    "start" : 1595386147808,
+    "stop" : 1595386147808,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 3 == 1",
+  "statusTrace" : "self = <app_temp.TestCase.test_mia.TestAllure object at 0x7fe68ce24a58>\n\n    @allure.feature('feature2')\n    @allure.title('这是用例名称3')\n    @allure.story('story2')\n    def test_sum_03(self):\n        b = 1 + 2\n>       assert b == 1\nE       assert 3 == 1\n\nTestCase/test_mia.py:66: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "story2"
+  }, {
+    "name" : "feature",
+    "value" : "中文录入，测试allure使用-feature"
+  }, {
+    "name" : "feature",
+    "value" : "feature2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mia"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "shileiwu-HP-ProDesk-480-G6-MT"
+  }, {
+    "name" : "thread",
+    "value" : "4789-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_mia"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9de4b0ad5dc8c985.json",
+  "parameterValues" : [ ]
+}

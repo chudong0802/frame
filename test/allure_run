@@ -1,0 +1,8 @@
+
+pytest TestCase --alluredir AllureReport/Result
+
+allure AllureReport/Result -o AllureReport/Report --clean
+
+cp AllureReport/Report/history AllureReport/Result/history /e /y /i
+
+allure open AllureReport/Report
